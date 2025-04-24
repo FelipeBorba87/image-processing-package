@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="image_processing",
-    version="0.0.1",
+    version="0.0.2",
     author="Felipe",
     author_email="felipeborba@hotmail.com",
     description="My short description",
