@@ -7,10 +7,10 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image_processing123",
-    version="0.0.2",
+    name="image_processing_nazgulll",
+    version="0.0.3",
     author="Felipe",
-    author_email="felipeborba@hotmail.com",
+    author_email="felipelean@hotmail.com",
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",

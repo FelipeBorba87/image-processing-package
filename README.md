@@ -1,6 +1,6 @@
-# package_name
+# image_processing_nazgulll
 
-The package image_processing is used to:
+The package image_processing_nazgulll is used to:
 	Processing
 		- Histogram matching
 		- Sctructural similarity
@@ -16,7 +16,7 @@ The package image_processing is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install image_processing124
+pip install image_processing_nazgulll
 ```
 
 ## Author
