@@ -1,0 +1,45 @@
+Metadata-Version: 2.4
+Name: image_processing_xmode
+Version: 0.0.1
+Summary: My short description
+Home-page: https://github.com/FelipeBorba87/image-processing-package
+Author: Felipe
+Author-email: felipelean@hotmail.com
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
+
+# image_processing_xmode
+
+The package image_processing_nazgulll is used to:
+	Processing
+		- Histogram matching
+		- Sctructural similarity
+		- Resize image
+	Utils:
+		- Read image
+		- Save image
+		- Plot image
+		- Plot histogram
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_xmode
+
+```bash
+pip install image_processing_xmode
+```
+
+## Author
+Felipe
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
