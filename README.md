@@ -1,7 +1,6 @@
 # package_name
 
-Description. 
-The package package_name is used to:
+The package image_processing is used to:
 	Processing
 		- Histogram matching
 		- Sctructural similarity
@@ -17,7 +16,7 @@ The package package_name is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install image_processing
+pip install image_processing124
 ```
 
 ## Author
