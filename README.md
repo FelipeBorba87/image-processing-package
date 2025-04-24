@@ -1,4 +1,4 @@
-# image_processing_nazgulll
+# image_processing_xmode
 
 The package image_processing_nazgulll is used to:
 	Processing
@@ -13,10 +13,10 @@ The package image_processing_nazgulll is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_xmode
 
 ```bash
-pip install image_processing_nazgulll
+pip install image_processing_xmode
 ```
 
 ## Author

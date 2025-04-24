@@ -7,8 +7,8 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image_processing_nazgulll",
-    version="0.0.3",
+    name="image_processing_xmode",
+    version="0.0.1",
     author="Felipe",
     author_email="felipelean@hotmail.com",
     description="My short description",
@@ -17,5 +17,4 @@ setup(
     url="https://github.com/FelipeBorba87/image-processing-package",
     packages=find_packages(),
     install_requires=requirements,
-    python_requires=">=3.8",
 )
